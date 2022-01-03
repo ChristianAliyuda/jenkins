@@ -1,0 +1,10 @@
+#!/bin/bash
+echo 
+   {
+ " sudo vi /var/lib/jenkins/config.xml"
+   " changese"
+  "<useSecurity>true</useSecurity>"
+  "<useSecurity>false</useSecurity>"
+  "then restart the jenkins with this commond"
+  "sudo systemctl restart jenkins"
+       };
