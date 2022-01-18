@@ -1,2 +1,2 @@
 # jenkins
-install jenkins for ec2 
+reset password commands.
